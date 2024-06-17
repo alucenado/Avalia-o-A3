@@ -28,7 +28,7 @@ public class projeto {
             "quem e voce",
             "o que voce faz",
             "qual e a sua cor favorita",
-            "qual e a capital do Brasil",
+            "qual e a capital do brasil",
             "quantos anos voce tem",
             "voce gosta de musica",
             "qual e o seu filme favorito",
